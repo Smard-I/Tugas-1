@@ -65,11 +65,11 @@ Total Salary : 5250000
 
 ## Program Screenshot
 
-![Program Screenshot](assets/Tugas 2 Program Java.png)
+![Program Screenshot](assets/screenshot.png)
 
 ## Program Flowchart
 
-![Program Flowchart](assets/Flowchart_gaji_karyawan.jpg)
+![Program Flowchart](assets/flowchart.jpg)
 
 ## Author
 
