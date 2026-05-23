@@ -1,4 +1,4 @@
-# Tugas-1 Java
+# Tugas Java
 
 This project is a simple Java program for employee salary classification and overtime salary calculation based on employee groups.
 
