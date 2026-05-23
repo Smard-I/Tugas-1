@@ -65,7 +65,7 @@ Total Salary : 5250000
 
 ## Program Screenshot
 
-![Program Screenshot](assets/screenshot.png)
+![Program Screenshot](assets/screenshots.png)
 
 ## Program Flowchart
 
